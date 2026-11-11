@@ -1,0 +1,7 @@
+{
+  "name": "oziron-agents-site",
+  "description": "Statische site voor Oziron agents Google-app",
+  "repository": "oziron-bv/oziron-bv.github.io",
+  "license": "UNLICENSED",
+  "private": true
+}
